@@ -1,0 +1,6 @@
+﻿  Project101.cpp
+C:\Users\Smalash\source\repos\Project101\Project101\Project101.cpp(1,1): error C2059: синтаксическая ошибка: константа
+C:\Users\Smalash\source\repos\Project101\Project101\Project101.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\sal.h(2361,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\sal.h(2361,12): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Smalash\source\repos\Project101\Project101\Project101.cpp(3,10): fatal  error C1083: Не удается открыть файл включение: inout.h: No such file or directory,
